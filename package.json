@@ -1,5 +1,5 @@
 {
-  "name": "simple-reduce",
+  "name": "simple-number-reduce",
   "version": "0.0.1",
   "description": "",
   "main": "dist/reduce.js",
